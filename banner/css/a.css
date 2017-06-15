@@ -1,0 +1,50 @@
+body{
+	margin:0px;
+	padding: 0px;
+}
+.div1{
+	width: 1005px;
+	height: 800px;
+	border: 1px #f00 solid;
+
+}
+.div2{
+	width: 1000px;
+	height: 300px;
+	border: 1px #0f0 solid;
+	margin: 1px;
+}
+.div3{
+	width: 1000px;
+	height: 200px;
+	border: 1px #0f0 solid;
+	margin: 1px;
+}
+
+.div4{
+	width: 1000px;
+	height: 180px;
+	border: 1px #0f0 solid;
+	margin: 1px;
+}
+.a1{
+	width: 300px;
+	height: 100px;
+	border: 1px #0f0 solid;
+	margin: 10px;
+	float: left;
+}
+.a2{
+	width: 300px;
+	height: 100px;
+	border: 1px #0f0 solid;
+	margin: 10px;
+	float: left;
+}
+.a3{
+	width: 300px;
+	height: 100px;
+	border: 1px #0f0 solid;
+	margin: 10px;
+	float: left;
+}

@@ -1,0 +1,45 @@
+
+*{
+	padding: 0px;
+	margin: 0px;
+}
+li{list-style:none;}
+div{
+	background-image: url(../image/bj.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 381px;
+	width: 220px;
+	text-align: center;
+	padding-top: 0px;
+	font-weight: bolder;
+}
+ul li{
+	background-image: url(../image/baibiaoti.png);
+	line-height: 35px;
+	text-align: center;
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 20px;
+}
+#b{
+	background-image: url(../image/header.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 50px;
+}
+#c{
+	background-image: url(../image/lvbiaoti.png);
+	background-position: center;
+	background-repeat: no-repeat;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+#c a{
+	color: white;
+	text-decoration: none;
+}
+ul li a{
+	color: gray;
+	text-decoration: none;
+}
