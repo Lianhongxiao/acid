@@ -133,9 +133,12 @@ body{
 .connect ul{
 	margin-left: 150px;
 }
-.a4 embed{
+.a4{
 	width: 400px;
 	height: 100px;
+	font-weight: bold;
+	font-size: 30px;
+	color: #4B0082;
 }
 .a5{
 	font-weight: bold;
